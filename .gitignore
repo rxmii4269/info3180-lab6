@@ -14,3 +14,7 @@ venv/
 
 # VS Code Settings
 .vscode
+node_modules
+package.json
+yarn*
+.eslint*
